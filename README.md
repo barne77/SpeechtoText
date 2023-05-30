@@ -1,4 +1,4 @@
-# SppechtoText
+# SpeechtoText
 
 First Start By Creating a Speech Service in Azure using the S Pricing Tier
 Second Create a Language Resource all boxes ticked using S Pricing Tier
